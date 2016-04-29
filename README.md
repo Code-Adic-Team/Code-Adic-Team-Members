@@ -4,4 +4,5 @@
 ---------------------------------------
 
 - @HittmanA [Owner {Admin}]
-- @EdwardTheDog2 [Member {Developer}]
+- @EdwardTheDog2 [Co-Owner {Developer}]
+- @matthew4444 [Member {Admin}]
