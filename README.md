@@ -6,3 +6,4 @@
 - @HittmanA [Owner {Admin}]
 - @EdwardTheDog2 [Co-Owner {Developer}]
 - @matthew4444 [Member {Admin}]
+- @farazfazli  [Developer, Member {Developer}]
